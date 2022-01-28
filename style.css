@@ -59,6 +59,7 @@ article {
     padding: 1rem;
     position: relative;
     width: 380px;
+    height: 330px;
 }
 
 h2 {
@@ -77,6 +78,7 @@ li {
 
 img  {
     width:350px;
+    height:200px;
 }
 
 figcaption {
